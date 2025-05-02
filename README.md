@@ -3,6 +3,7 @@
 This repository contains multiple implementations of state-of-the-art deep learning models for image super-resolution. The project includes several different approaches to tackle the problem of upscaling low-resolution images to high-resolution versions.
 
 ## Project Overview
+[Super_Resolution_with_GEN_AI.pdf](https://github.com/user-attachments/files/20015191/Super_Resolution_with_GEN_AI.pdf)
 
 Image super-resolution (SR) is the process of recovering high-resolution (HR) images from low-resolution (LR) inputs. This project implements several cutting-edge deep learning approaches to SR:
 
